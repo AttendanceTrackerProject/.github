@@ -4,7 +4,7 @@ Welcome to the **Attendance Tracker Project**!
 This organization hosts a microservices-based system designed to manage user authentication, attendance records, and a frontend interface for displaying QR codes and user management. Showcasing DevOps, CI/CD pipelines, JWT token, and SignalR technologies for real time updates.
 
 ## 📄 Documentation
-For detailed requirements, design specifications, and system overview, please refer to our **System Requirements Specification (SRS)** document:
+For detailed requirements, design specifications, and system overview, please refer to the **System Requirements Specification (SRS)** document:
 
 👉 [View the SRS Document](https://calmenchia.atlassian.net/wiki/external/Njc2ZGNlOGYxMDNiNDE4Y2IzNWY1ZWIzNjk0MjdhYWE)
 
