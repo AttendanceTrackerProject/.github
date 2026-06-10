@@ -7,6 +7,8 @@ This organization hosts a microservices-based system designed to manage user aut
 - **FrontEndWeb** – Web frontend for displaying QR codes and managing users.
 - **AttendanceTrackerMicroservices.TrackerAPI** – Handles attendance records, check-in, and check-out times.
 - **AttendanceTrackerMicroservices.AuthAPI** – Manages user authentication and security.
+- **infra** - Manages the DevOps site for the deployment of the project.
+- **AutomationScripts** - Some of the automation bash scripts which is helpful for CI/CD pipeline.
 
 All services are written in **C#** and follow a microservices architecture for scalability and maintainability.
 
